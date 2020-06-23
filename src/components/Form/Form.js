@@ -16,7 +16,7 @@ const Form = props => {
         className="form-control"
         type="text"
         name="input"
-        id="name"
+        id="input"
         onChange={props.handleInputChange}
         value={props.input}
       />
