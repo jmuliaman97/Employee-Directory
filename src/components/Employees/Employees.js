@@ -3,7 +3,7 @@ import './Employees.css'
 
 const Employees = props => {
   return (
-    <div className="card text-white bg-secondary mb-3" style={{ maxWidth: '18rem' }}>
+    <div className="card text-white bg-secondary mb-3">
       <div className="card-header">{props.employee.full_name}</div>
       <div className="card-body">
         <p className="card-text">Email: {props.employee.email}</p>
