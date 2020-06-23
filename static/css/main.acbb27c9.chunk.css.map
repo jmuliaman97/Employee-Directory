@@ -1,0 +1,1 @@
+{"version":3,"sources":["Employees.css"],"names":[],"mappings":"AAAA,MACE,WAAY,CACZ,YAAa,CAEb,oBAAe,CACf,oBACF","file":"main.acbb27c9.chunk.css","sourcesContent":[".card {\r\n  width: 300px;\r\n  height: 270px;\r\n  margin: auto;\r\n  margin-top: 5px;\r\n  display: inline-block;\r\n}"]}
