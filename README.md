@@ -12,7 +12,7 @@
   * [Questions](#questions)
     
   ## Installation
-  git clone [https://github.com/jmuliaman97/Employee-Directory.git](https://github.com/jmuliaman97/Employee-Directory.git)
+  git clone [https://github.com/jmuliaman97/Employee-Directory.git](https://github.com/jmuliaman97/Employee-Directory.git) or open deployed app [https://jmuliaman97.github.io/Employee-Directory/](https://jmuliaman97.github.io/Employee-Directory/)
 
   ## Usage
   Open terminal and run `npm i` to install necessary files. After installation is complete, run `npm start` to run the app.
